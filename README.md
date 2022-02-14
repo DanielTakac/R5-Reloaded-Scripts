@@ -1,4 +1,4 @@
-# Mods for modded Apex Legends client called R5Reloaded
+# Mods for modded Apex Legends client R5Reloaded
 
 ### Made by Daniel Takac
 
