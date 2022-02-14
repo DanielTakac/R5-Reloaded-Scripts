@@ -21,8 +21,8 @@ WeaponData
 
 	"cooldown_type"									"chargeFrac"
     "cooldown_time"	                                "0.4" // actually, "blowoff animation time"
-    "charge_time"                                   "1.7"  // while holding trigger, time until weapon overheats
-    "charge_cooldown_time"                          "2.45"  // controls length of overheat anim (along with delay)
+    "charge_time"                                   "3.2"  // while holding trigger, time until weapon overheats
+    "charge_cooldown_time"                          "1.75"  // controls length of overheat anim (along with delay)
     "charge_cooldown_delay"                         "0.05"
 	"charge_overheats_when_full"                    "1"
 	"charge_weapon_fires_while_charging"            "1"
@@ -358,8 +358,8 @@ WeaponData
 
 	// Ammo
 	"ammo_suck_behavior"							"primary_weapons"
-	"ammo_clip_size"   								"40"
-	"ammo_clip_reload_max"							"40"
+	"ammo_clip_size"   								"69420"
+	"ammo_clip_reload_max"							"69420"
 	"ammo_min_to_fire"								"1"
 	"ammo_per_shot"		    						"1"
 	"ammo_no_remove_from_stockpile"					"1"
@@ -371,7 +371,7 @@ WeaponData
     "low_ammo_fraction" 							"0.3"
     "uses_ammo_pool"								"0"
 
-    "reload_alt_anim"								"0"
+    "reload_alt_anim"								"1"
 
     "aimassist_adspull_weaponclass"					"none"
 
@@ -429,7 +429,7 @@ WeaponData
 	"dof_nearDepthEnd"							    "0.0"
 
 	// Behavior
-	"fire_rate"   									"12.0"
+	"fire_rate"   									"16.4"
 
 	"zoom_time_in"                                  "0.34"
 	"zoom_time_out"                                 "0.3"
@@ -444,9 +444,9 @@ WeaponData
 
 	"deployfirst_time"								"1.45"
 	"deploy_time" 								    "0.7"
-    "holster_time"								    "0.65"
-	"raise_time"  								    "0.55"
-	"lower_time"  								    "0.5"
+    "holster_time"								    "2.4"
+	"raise_time"  								    "4.2"
+	"lower_time"  								    "1.6"
 
 	"vortex_drain" 			 						"0.0"
 	"vortex_refire_behavior"  						"absorb"
