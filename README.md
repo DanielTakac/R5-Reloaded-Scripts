@@ -11,3 +11,5 @@
 - Minigun Kraber
 - Spiderman
 - P2021
+- Wingwoman
+- Wallrun & Double jump
