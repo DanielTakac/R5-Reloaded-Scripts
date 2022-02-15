@@ -3,3 +3,9 @@
 ### Made by Daniel Takac
 
 #### Scripts made with Squirrel 🐿️
+
+## Current Mods:
+- LSTAR but it's usable
+- Minigun Kraber
+- Spiderman
+- P2021
