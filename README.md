@@ -1,6 +1,6 @@
 # Mods for modded Apex Legends client R5Reloaded
 
-#### Scripts made with Squirrel 🐿️
+### Scripts made with Squirrel 🐿️
 
 ## Current Mods:
 - LSTAR but it's usable
@@ -9,3 +9,5 @@
 - Minigun Kraber
 - Spiderman
 - P2021
+
+## Download R5Reloaded here: [https://github.com/Limitex/R5-Reloaded-Installer/releases](https://github.com/Limitex/R5-Reloaded-Installer/releases)
