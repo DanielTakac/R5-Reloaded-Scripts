@@ -6,8 +6,8 @@
 
 	// General
 	//
-	"printname"                                "#WPN_SNIPER"
-	"shortprintname"                           "#WPN_SNIPER_SHORT"
+	"printname"                                "CRABER"
+	"shortprintname"                           "CRABER"
 	"description"                              "#WPN_SNIPER_DESC"
 	"longdesc"                                 "#WPN_SNIPER_LONGDESC"
 	

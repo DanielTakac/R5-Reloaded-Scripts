@@ -6,6 +6,7 @@
 
 ## Current Mods:
 - LSTAR but it's usable
+- Minigun Peacekeeper
 - Minigun Devotion
 - Minigun Kraber
 - Spiderman
