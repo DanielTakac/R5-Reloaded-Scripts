@@ -13,3 +13,5 @@
 - P2021
 - Wingwoman
 - Wallrun & Double jump
+- Infinite Thermite Wall
+- Phase Dash
