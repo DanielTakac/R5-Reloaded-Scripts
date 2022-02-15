@@ -2,4 +2,4 @@
 
 ### Made by Daniel Takac
 
-#### Made using Squirrel language
+#### Scripts made using Squirrel 🐿️
